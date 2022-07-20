@@ -4,15 +4,19 @@ A blueprint for understanding me, my quirks, and my priorities.
 
 **TL;DR:** Remove fear from the future so we can be confident today.
 
-## Understanding
+## Insight
 
-### If it cant be tracked, we're not doing it
+### Track everything 
 
-### Tracking - understand what you dont know so you can measure it in the future
+Track things and look at that data. Understand what you can't track today so you can measure it in the future. If a feature's success can't be measured, we're not doing it.
+
+### Use the product
+
+Data is no substitute to actually experiencing the product first hand.
 
 ### Everyone's a user
 
-Devs know/use the product more than anyone else. There’s some much that just cannot emerge from top-down ideation. This means looking at the new/state-of-the-art, learning, and implementing. Though this is not just trying out new frameworks
+Devs know & use the product more than anyone else. There’s some much that just cannot emerge from top-down ideation. This means looking at the new/state-of-the-art, learning, and implementing. Though this is not just trying out new frameworks
 
 ## Decisions
 
